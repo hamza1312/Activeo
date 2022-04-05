@@ -11,6 +11,9 @@
 .accent_color{
     color: #70C493;
 }
+.accent_border{
+    border-color: #70C493;
+}
 .app{
     background-image: url('./images/background.jpg');
     background-position: center;
