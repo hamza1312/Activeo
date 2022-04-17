@@ -2,8 +2,8 @@ import React from 'react'
 import Activeo from "../images/Activeo.svg"
 const Header = () => {
   return (
-    <div className="p-6 flex flex-row justify-center items-center">
-      <img src={Activeo} className="w-44"></img>
+    <div className="lg:justify-start justify-center px-5 lg:m-0 mb-8 flex flex-row ">
+      <img alt="" src={Activeo} className="w-24"></img>
     </div>
   )
 }
