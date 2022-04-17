@@ -25,7 +25,7 @@ const Game = () => {
     setValue(e.target.value);
     
   };
-  if(image == ""){
+  if(image === ""){
     imgStyle="bg-contain rounded-xl accent_border border-0"
   }
   
