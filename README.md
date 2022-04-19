@@ -4,7 +4,8 @@ This project was Created using React js , tailwindcss,and Javascript
 
 ## Available Scripts
 
-In the project directory, you can run:
+Before Start editing/running the project start By:
+### `npm install`
 
 ### `npm start`
 
